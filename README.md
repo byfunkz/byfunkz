@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @byfunkz
-- 👀 I’m fourteen years old begginer proggramer
-- 🐨 I started my own NFT Project [@koalasnft_](https://twitter.com/koalasnft_)
-- 🤖 Im good at develop discord bots...
+- I'm "building" cool things at my stupid nft project
 
 <!---
 byfunkz/byfunkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
